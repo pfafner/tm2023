@@ -24,6 +24,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
   01       | 09.01.2023   | Introducción al curso. <br/>                                                   | 
+  02       | 11.01.2023   | Integral de Darboux. Integral de Riemann. <br/>                                | 
   
   
 # Referencias
