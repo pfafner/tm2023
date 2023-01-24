@@ -27,7 +27,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   01       | 11.01.2023   | Integral de Riemann e integral de Darboux. Limitaciones. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Elon Lages, Curso de Análise I. 
   02       | 16.01.2023   | Integral de Riemann-Stieltjes. Ejemplos. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Bartle, Cap. 29. 
   03       | 18.01.2023   | Propiedades de la integral de Riemann-Stieltjes. <br/>                         | Bartle, Cap. 29. 
-  04       | 23.01.2023   | Funciones de Variación Limitada. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Bartle, Cap. 29. 
+  04       | 23.01.2023   | Funciones de Variación Limitada. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Kolmogorov y Fomin (Análisis). Cap. 9.
   
   
 # Referencias
