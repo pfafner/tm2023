@@ -29,7 +29,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   03       | 18.01.2023   | Propiedades de la integral de Riemann-Stieltjes. <br/>                         | Bartle, Cap. 29. 
   04       | 23.01.2023   | Funciones de Variación Limitada. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Kolmogorov y Fomin (Análisis). Cap. 9.
   05       | 25.01.2023   | Criterios y propiedades de Integrabilidad. <br/>  | 
-  
+  L1       | 25.01.2023   |   | [Lista 01](listas/lista01.pdf){:target="_blank"}. <br/> **Fecha de Entrega: miércoles 8 de febrero.**
   
 # Referencias
 <div id='id-ref'/>
