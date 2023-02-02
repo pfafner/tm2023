@@ -30,7 +30,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   04       | 23.01.2023   | Funciones de Variación Limitada. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Kolmogorov y Fomin (Análisis). Cap. 9.
   05       | 25.01.2023   | Criterios y propiedades de Integrabilidad. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Bartle, Cap. 30 y 31. 
   L1       | 25.01.2023   |   | [Lista 01](listas/lista01.pdf){:target="_blank"}. <br/> **Fecha de Entrega: miércoles 8 de febrero.**
-  06       | 30.01.2023   | La Medida Exterior de Lebesgue. <br/>  |   
+  06       | 30.01.2023   | La Medida Exterior de Lebesgue. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
   
   
   # Referencias
