@@ -31,6 +31,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   05       | 25.01.2023   | Criterios y propiedades de Integrabilidad. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Bartle, Cap. 30 y 31. 
   L1       | 25.01.2023   |   | [Lista 01](listas/lista01.pdf){:target="_blank"}. <br/> **Fecha de Entrega: miércoles 8 de febrero.**
   06       | 30.01.2023   | La Medida Exterior de Lebesgue. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
+  07       | 01.02.2023   | Propiedades de la medida exterior. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
   
   
   # Referencias
