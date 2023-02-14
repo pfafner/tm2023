@@ -34,7 +34,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   07       | 01.02.2023   | Propiedades de la medida exterior. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
   08       | 06.02.2023   | Conjuntos Lebesgue-mesurable. $\sigma$-álgebras. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
   09       | 08.02.2023   | Solución de la Lista 01.  | 
-  10       | 13.02.2023   |                           |
+  10       | 13.02.2023   | Caracterizaciones de mesurabilidad. Teorema de Caratéodory. Teorema de Vitali. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
   L2       | 13.02.2023   |   | [Lista 02](listas/lista02.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 27 de febrero.**
   
   
