@@ -38,7 +38,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   L2       | 13.02.2023   |   | [Lista 02](listas/lista02.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 27 de febrero.**
   
   
-  # Referencias
+# Referencias
 <div id='id-ref'/>
 
 ### Textos:
