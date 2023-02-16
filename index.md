@@ -32,11 +32,11 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   L1       | 25.01.2023   |   | [Lista 01](listas/lista01.pdf){:target="_blank"}. <br/> **Fecha de Entrega: miércoles 8 de febrero.**
   06       | 30.01.2023   | La Medida Exterior de Lebesgue. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
   07       | 01.02.2023   | Propiedades de la medida exterior. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
-  08       | 06.02.2023   | Conjuntos Lebesgue-mesurable. $\sigma$-álgebras. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
+  08       | 06.02.2023   | Conjuntos Lebesgue-mesurables. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
   09       | 08.02.2023   | Solución de la Lista 01.  | 
   10       | 13.02.2023   | Caracterizaciones de mesurabilidad. Teorema de Caratéodory. Teorema de Vitali. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
   L2       | 13.02.2023   |   | [Lista 02](listas/lista02.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 27 de febrero.**
-  11       | 15.02.2023   | Sigma-álgebras. Construcciones de sigma-álgebras. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Schilling, Cap. 3.
+  11       | 15.02.2023   | $\sigma$-álgebras. Construcciones de $\sigma$-álgebras. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Schilling, Cap. 3.
   
   
 # Referencias
