@@ -37,7 +37,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   10       | 13.02.2023   | Caracterizaciones de mesurabilidad. Teorema de Caratéodory. Teorema de Vitali. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Wheeden y Zygmund, Cap. 3.
   L2       | 13.02.2023   |   | [Lista 02](listas/lista02.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 27 de febrero.**
   11       | 15.02.2023   | $\sigma$-álgebras. Construcciones de $\sigma$-álgebras. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Schilling, Cap. 3.
-  12       | 22.02.2023   | Clases monótonas. El Teorema de CLases Monótonas.   |  
+  12       | 22.02.2023   | Clases monótonas. El Teorema de Clases Monótonas. [Aula 11](aulas/Aula11.pdf){:target="_blank"}  | Schilling, Cap. 5. 
   
   
 # Referencias
