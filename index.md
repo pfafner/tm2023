@@ -38,6 +38,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   L2       | 13.02.2023   |   | [Lista 02](listas/lista02.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 27 de febrero.**
   11       | 15.02.2023   | $\sigma$-álgebras. Construcción de $\sigma$-álgebras. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Schilling, Cap. 3.
   12       | 22.02.2023   | Clases monótonas. El Teorema de Clases Monótonas. [Aula 11](aulas/Aula11.pdf){:target="_blank"}  | Schilling, Cap. 5. 
+  13       | 27.02.2023   | Medidas positivas. Propiedades. Ejemplos. <br/> | Schilling, Cap. 4. <br/> Bartle, Cap. 3. 
   
   
 # Referencias
