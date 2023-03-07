@@ -40,7 +40,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   12       | 22.02.2023   | Clases monótonas. El Teorema de Clases Monótonas. [Aula 11](aulas/Aula11.pdf){:target="_blank"}  | Schilling, Cap. 5. 
   13       | 27.02.2023   | Medidas positivas. Propiedades. Ejemplos. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Schilling, Cap. 4. <br/> Bartle, Cap. 3. 
   L3       | 27.02.2023   |   | [Lista 03](listas/lista03.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 13 de marzo.**
-  .        | 07.03.2023   |                                            |  
+  14       | 01.03.2023   | Ejercicios sobre medidas.  |  
   
   
 # Referencias
