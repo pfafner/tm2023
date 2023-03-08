@@ -42,7 +42,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   L3       | 27.02.2023   |   | [Lista 03](listas/lista03.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 13 de marzo.**
   14       | 01.03.2023   | Ejercicios sobre medidas.  |  
   15       | 06.03.2023   | Teorema de Unicidad de Extensiones. Invarianza de la medida de Lebesgue. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Schilling, Cap. 5.
-  16       | 08.03.2023   | Teorema de Extensión de Carathéodory. [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Schilling, Cap. 6.
+  16       | 08.03.2023   | Teorema de Extensión de Carathéodory. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Schilling, Cap. 6.
   
   
 # Referencias
