@@ -43,8 +43,8 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   14       | 01.03.2023   | Ejercicios sobre medidas. | [Ejercicios.pdf](listas/Ejercicios.pdf){:target="_blank"}
   15       | 06.03.2023   | Teorema de Unicidad de Extensiones. Invarianza de la medida de Lebesgue. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Schilling, Cap. 5.
   16       | 08.03.2023   | Teorema de Extensión de Carathéodory. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Schilling, Cap. 6.
-  17       | 13.03.2023   | Mapas mesurables.   | 
-  18       | 15.03.2023   | Borelianos extendidos. Ejemplos de funciones mesurables.   | 
+  17       | 13.03.2023   | Mapas mesurables. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | 
+  18       | 15.03.2023   | Borelianos extendidos. Ejemplos de funciones mesurables. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
 
   
 # Referencias
