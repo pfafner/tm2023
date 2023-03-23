@@ -45,7 +45,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   16       | 08.03.2023   | Teorema de Extensión de Carathéodory. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Schilling, Cap. 6.
   17       | 13.03.2023   | Mapas mesurables. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | 
   18       | 15.03.2023   | Borelianos extendidos. Ejemplos de funciones mesurables. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
-  19       | 20.03.2023   | Funciones simples. <br/>   | 
+  19       | 20.03.2023   | Funciones simples. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
   L4       | 20.03.2023   |   | [Lista 04](listas/lista04.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 10 de abril.**
 
   
