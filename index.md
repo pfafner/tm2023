@@ -48,7 +48,6 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   19       | 20.03.2023   | Funciones Simples. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Schilling, Cap. 8.
   L4       | 20.03.2023   |   | [Lista 04](listas/lista04.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 10 de abril.**
   20       | 22.03.2023   | Integración de Funciones Positivas. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Schilling, Cap. 8. 
-  21       |              |                                           | 
 
   
 # Referencias
