@@ -47,9 +47,9 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   18       | 15.03.2023   | Borelianos extendidos. Ejemplos de funciones mesurables. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
   19       | 20.03.2023   | Funciones Simples. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Schilling, Cap. 8.
   L4       | 20.03.2023   |   | [Lista 04](listas/lista04.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 10 de abril.**
-  20       | 22.03.2023   | Integración de Funciones Positivas. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Schilling, Cap. 8. 
-  21       | 10.04.2023   | Ejemplos de Integración. <br/>  | Schilling, Cap. 8. 
-
+  20       | 22.03.2023   | Integración de Funciones Positivas. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Schilling, Cap. 9. 
+  21       | 10.04.2023   | Ejemplos de Integración. Integración de Funciones Mesurables. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Schilling, Cap. 10. 
+  
   
 # Referencias
 <div id='id-ref'/>
