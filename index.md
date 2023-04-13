@@ -49,7 +49,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   L4       | 20.03.2023   |   | [Lista 04](listas/lista04.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 10 de abril.**
   20       | 22.03.2023   | Integración de Funciones Positivas. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Schilling, Cap. 9. 
   21       | 10.04.2023   | Ejemplos de Integración. Integración de Funciones Mesurables. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Schilling, Cap. 10. 
-  22       | 12.04.2023   |      |
+  22       | 12.04.2023   | Conjuntos de medida nula. Conceptos c.t.p. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Schilling, Cap. 11. 
   
   
 # Referencias
