@@ -52,7 +52,22 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   22       | 12.04.2023   | Conjuntos de medida nula. Conceptos c.t.p. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Schilling, Cap. 11. 
   23       | 17.04.2023   | Teoremas de Convergencia. <br/>  | Schilling, Caps. 9 y 12. 
   
-  
+
+# Seminario
+<div id='id-proj'/>
+
+A continuación se listan algunos temas sugeridos para presentación de seminarios. [Temas-seminario.pdf](projects/Temas_proyecto.pdf){:target="_blank"}
+
+### Fechas importantes:
+
+  **No.**  | **Fecha**       |  .
+  -------- | --------------- | ---------------------------------------------------
+  1        | 03.05.2023      | Último día para elección de tema.
+  2        | 18.05.2023      | Entrega de presentación y reporte (borrador).
+  3        | 22-31.15.2023   | Presentación de Seminarios.
+  4        | 02.06.2023      | Entrega de versión final (Presentación y Reporte).
+
+
 # Referencias
 <div id='id-ref'/>
 
