@@ -63,7 +63,7 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
   **No.**  | **Fecha**       |  .
   -------- | --------------- | ---------------------------------------------------
   1        | 03.05.2023      | Último día para elección de tema.
-  2        | 18.05.2023      | Entrega de presentación y reporte (borrador).
+  2        | 19.05.2023      | Entrega de presentación y reporte (borrador).
   3        | 22-31.15.2023   | Presentación de Seminarios.
   4        | 02.06.2023      | Entrega de versión final (Presentación y Reporte).
 
