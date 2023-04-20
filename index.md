@@ -68,6 +68,12 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
   3        | 22-31.05.2023   | Presentación de Seminarios.
   4        | 03.06.2023      | Entrega de versión final (Presentación y Reporte).
 
+### Temas a presentar (ya fueron elegidos):
+
+  **No.**  | .
+  -------- | ---------------------------------------------------
+  1        | La medida de Hausdorff.
+
 
 # Referencias
 <div id='id-ref'/>
