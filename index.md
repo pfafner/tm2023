@@ -51,6 +51,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   21       | 10.04.2023   | Ejemplos de Integración. Integración de Funciones Mesurables. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Schilling, Cap. 10. 
   22       | 12.04.2023   | Conjuntos de medida nula. Conceptos c.t.p. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Schilling, Cap. 11. 
   23       | 17.04.2023   | Teoremas de Convergencia. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Schilling, Caps. 9 y 12. 
+  24       | 19.04.2023   | Aplicaciones de la Integral de Lebesgue. <br/>  | Schilling, Cap. 12. 
   
 
 # Seminario
