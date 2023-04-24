@@ -73,7 +73,9 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
 
   **No.**  | .
   -------- | ---------------------------------------------------
-  1        | La medida de Hausdorff.
+  5        | La medida de Hausdorff.
+  1        | Teorema de Egoroff y Teorema de Luzin.
+  3        | La transformación de Jacobi.
 
 
 # Referencias
