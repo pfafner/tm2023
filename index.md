@@ -53,6 +53,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   23       | 17.04.2023   | Teoremas de Convergencia. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Schilling, Caps. 9 y 12. 
   24       | 19.04.2023   | Aplicaciones de la Integral de Lebesgue. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Schilling, Cap. 12. 
   L5       | 23.04.2023   |   | [Lista 05](listas/lista05.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 08 de mayo.**
+  25       | 24.04.2023   | Espacios Lp. Desigualdades importantes. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Bartle, Cap. 6. <br/> Schilling, Cap. 12. 
   
 
 # Seminario
