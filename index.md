@@ -78,6 +78,8 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
   5        | La medida de Hausdorff.
   1        | Teorema de Egoroff y Teorema de Luzin.
   3        | La transformación de Jacobi.
+  4        | Coordenadas polares y el volumen de la esfera unitaria.
+  
 
 
 # Referencias
