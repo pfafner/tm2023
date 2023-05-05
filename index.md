@@ -80,6 +80,9 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
   1        | Teorema de Egoroff y Teorema de Luzin.
   3        | La transformación de Jacobi.
   4        | Coordenadas polares y el volumen de la esfera unitaria.
+  10       | Integral de Kurzweil-Henstock.
+  6        | La Transformada de Fourier.
+  8        | Teorema de convergencia de Vitali.
   
 
 
