@@ -55,7 +55,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   L5       | 23.04.2023   |   | [Lista 05](listas/lista05.pdf){:target="_blank"}. <br/> **Fecha de Entrega: lunes 08 de mayo.**
   25       | 24.04.2023   | Espacios Lp. Desigualdades importantes. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Bartle, Cap. 6. <br/> Schilling, Cap. 12. 
   26       | 26.04.2023   | Modos de Convergencia. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Bartle, Cap. 7. 
-  27       | 03.05.2023   |                            |  
+  27       | 03.05.2023   | Medidas Producto. Teorema de Tonelli. Teorema de Fubini. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Bartle, Cap. 10. <br/> Schilling, Cap. 14.
   
 
 # Seminario
