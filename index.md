@@ -58,6 +58,7 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   27       | 03.05.2023   | Medidas Producto. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Bartle, Cap. 10. <br/> Schilling, Cap. 14.
   28       | 08.05.2023   | Teorema de Tonelli. Teorema de Fubini. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Bartle, Cap. 10. <br/> Schilling, Cap. 14.
   29       | 10.05.2023   | Medidas con signo. Teorema de descomposición de Hahn. Teorema de descomposición de Jordan. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | 
+  30       | 15.05.2023   |          | 
 
 
 # Seminario
