@@ -98,6 +98,8 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
 
 * [R. Schilling (2017). *Measures, Integrals and Martingales*.](http://library.lol/main/70091F2937A5FA32E08795C3A3654837){:target="_blank"}
 
+* [G. Grabinski (2013). *Teoría de la medida*.](textos/Grabinsky_Teoría_de_la_medida.pdf){:target="_blank"}
+
 
 ### Referencias adicionales:
 
