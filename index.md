@@ -60,7 +60,9 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   29       | 10.05.2023   | Medidas con signo. Teorema de descomposición de Hahn. Teorema de descomposición de Jordan. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Grabinski, sección 10.1 y 10.2.
   30       | 15.05.2023   | Teorema de Radón-Nikodym. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Grabinski, sección 10.3.
   L6       | 15.05.2023   |   | [Lista 06](listas/lista06.pdf){:target="_blank"}. <br/> **Fecha de Entrega: miércoles 17 de mayo.**
-
+  31       | 20.05.2023   | Presentaciòn de seminarios. | 
+  
+  
 # Seminario
 <div id='id-proj'/>
 
