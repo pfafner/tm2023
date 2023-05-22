@@ -77,18 +77,17 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
   3        | 22-31.05.2023   | Presentación de Seminarios.
   4        | 03.06.2023      | Entrega de versión final (Presentación y Reporte).
 
-### Temas a presentar (ya fueron elegidos):
+### Presentaciones:
 
   Fecha       | Expositor              | Tópico 
   ----------- | ---------------------- | ---------------------------------
-  22.05.2023  | Pablo Stefan Quintana  | Integral de Kurzweil-Henstock.
-  22.05.2023  | Guillermo Furlán | Teorema de Egoroff y Teorema de Luzin.
-  24.05.2023  |  | Teorema de convergencia de Vitali.
-  24.05.2023  |  | La Transformada de Fourier.
-  29.05.2023  |  | La transformación de Jacobi.
-  29.05.2023  |  | Coordenadas polares y el volumen de la esfera unitaria.
-  31.05.2023  |  | La medida de Hausdorff.
-  
+  22.05.2023  | Pablo Stefan Quintana  | Integral de Kurzweil-Henstock
+  22.05.2023  | Guillermo Furlán       | Teorema de Egoroff y Teorema de Lusin
+  24.05.2023  | María José Gil         | Teorema de convergencia de Vitali
+  24.05.2023  | Joshua Chicoj          | Transformada de Fourier
+  29.05.2023  | Wilfredo Gallegos      | La transformación de Jacobi
+  29.05.2023  | Alejandro Pallais      | Coordenadas polares y el volumen de la esfera unitaria
+  31.05.2023  | Juan Luis Solórzano    | La medida de Hausdorf 
 
 
 # Referencias
