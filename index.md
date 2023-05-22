@@ -79,15 +79,15 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
 
 ### Temas a presentar (ya fueron elegidos):
 
-  **No.**  | .
-  -------- | ---------------------------------------------------
-  5        | La medida de Hausdorff.
-  1        | Teorema de Egoroff y Teorema de Luzin.
-  3        | La transformación de Jacobi.
-  4        | Coordenadas polares y el volumen de la esfera unitaria.
-  10       | Integral de Kurzweil-Henstock.
-  6        | La Transformada de Fourier.
-  8        | Teorema de convergencia de Vitali.
+  Fecha    | Expositor              | Tópico 
+  -------- | ---------------------- | ---------------------------------
+  10       | Pablo Stefan Quintana  | Integral de Kurzweil-Henstock.
+  1        | Guillermo Furlán | Teorema de Egoroff y Teorema de Luzin.
+  8        |  | Teorema de convergencia de Vitali.
+  6        |  | La Transformada de Fourier.
+  3        |  | La transformación de Jacobi.
+  4        |  | Coordenadas polares y el volumen de la esfera unitaria.
+  5        |  | La medida de Hausdorff.
   
 
 
