@@ -79,15 +79,15 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
 
 ### Temas a presentar (ya fueron elegidos):
 
-  Fecha    | Expositor              | Tópico 
-  -------- | ---------------------- | ---------------------------------
-  10       | Pablo Stefan Quintana  | Integral de Kurzweil-Henstock.
-  1        | Guillermo Furlán | Teorema de Egoroff y Teorema de Luzin.
-  8        |  | Teorema de convergencia de Vitali.
-  6        |  | La Transformada de Fourier.
-  3        |  | La transformación de Jacobi.
-  4        |  | Coordenadas polares y el volumen de la esfera unitaria.
-  5        |  | La medida de Hausdorff.
+  Fecha       | Expositor              | Tópico 
+  ----------- | ---------------------- | ---------------------------------
+  22.05.2023  | Pablo Stefan Quintana  | Integral de Kurzweil-Henstock.
+  22.05.2023  | Guillermo Furlán | Teorema de Egoroff y Teorema de Luzin.
+  22.05.2023  |  | Teorema de convergencia de Vitali.
+  22.05.2023  |  | La Transformada de Fourier.
+  22.05.2023  |  | La transformación de Jacobi.
+  22.05.2023  |  | Coordenadas polares y el volumen de la esfera unitaria.
+  22.05.2023  |  | La medida de Hausdorff.
   
 
 
