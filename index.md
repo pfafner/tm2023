@@ -87,8 +87,8 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
   24.05.2023  | María José Gil         | Teorema de convergencia de Vitali
   24.05.2023  | Joshua Chicoj          | Transformada de Fourier
   29.05.2023  | Wilfredo Gallegos      | La transformación de Jacobi
-  29.05.2023  | Alejandro Pallais      | Coordenadas polares y el volumen de la esfera unitaria
-  31.05.2023  | Juan Luis Solórzano    | La medida de Hausdorf 
+  29.05.2023  | Juan Luis Solórzano    | La medida de Hausdorff 
+  31.05.2023  | Alejandro Pallais      | Coordenadas polares y el volumen de la esfera unitaria
 
 
 # Referencias
