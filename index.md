@@ -61,7 +61,6 @@ Este es un curso introductorio a la teoría de la medida e integración. El tema
   30       | 15.05.2023   | Teorema de Radón-Nikodym. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Grabinski, sección 10.3.
   L6       | 15.05.2023   |   | [Lista 06](listas/lista06.pdf){:target="_blank"}. <br/> **Fecha de Entrega: miércoles 17 de mayo.**
   31       | 22-24.05.2023   | Presentación de seminarios. | 
-  32       | 29-31.05.2023   | Presentación de seminarios. | 
   
   
 # Seminario
