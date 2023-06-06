@@ -87,7 +87,7 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
   24.05.2023  | Joshua Chicoj          | Transformada de Fourier <br/> [Presentación](seminarios/Presentacion_Fourier.pdf){:target="_blank"}
   29.05.2023  | Wilfredo Gallegos      | La transformación de Jacobi <br/> [Presentación](seminarios/Presentacion_Jacobi.pdf){:target="_blank"}
   29.05.2023  | Juan Luis Solórzano    | La medida de Hausdorff <br/> [Presentación](seminarios/Presentacion_Hausdorff.pdf){:target="_blank"}
-  31.05.2023  | Alejandro Pallais      | Coordenadas polares y el volumen de la esfera unitaria <br/> [Presentación](seminarios/Presentacion_.pdf){:target="_blank"}
+  31.05.2023  | Alejandro Pallais      | Coordenadas polares y el volumen de la esfera unitaria <br/> [Presentación](seminarios/Presentacion_N_Esfera.pdf){:target="_blank"}
 
 
 # Referencias
