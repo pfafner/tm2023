@@ -82,7 +82,7 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
   Fecha       | Expositor              | Tópico 
   ----------- | ---------------------- | ---------------------------------
   22.05.2023  | Pablo Stefan Quintana  | Integral de Kurzweil-Henstock <br/> [Presentación](seminarios/Presentacion_Henstock_Kurzweil.pdf){:target="_blank"}
-  22.05.2023  | Guillermo Furlán       | Teorema de Egoroff y Teorema de Lusin <br/> [Presentación](seminarios/Presentacion_.pdf){:target="_blank"}
+  22.05.2023  | Guillermo Furlán       | Teorema de Egoroff y Teorema de Lusin <br/> [Presentación](seminarios/Presentacion_Egoroff_Lusin.pdf){:target="_blank"}
   24.05.2023  | María José Gil         | Teorema de convergencia de Vitali <br/> [Presentación](seminarios/Presentacion_.pdf){:target="_blank"}
   24.05.2023  | Joshua Chicoj          | Transformada de Fourier <br/> [Presentación](seminarios/Presentacion_.pdf){:target="_blank"}
   29.05.2023  | Wilfredo Gallegos      | La transformación de Jacobi <br/> [Presentación](seminarios/Presentacion_.pdf){:target="_blank"}
